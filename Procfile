@@ -1,1 +1,1 @@
-web: python LiveEmotionRecognition.py --log-file -
+web: LiveEmotionRecognition.py
